@@ -2,6 +2,7 @@
 [![Coverage Status](https://coveralls.io/repos/github/ImFlow/URL2Image/badge.svg?branch=master)](https://coveralls.io/github/ImFlow/URL2Image?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Documentation Status](https://readthedocs.org/projects/url2image/badge/?version=master)](https://url2image.readthedocs.io/en/master/?badge=master)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FImFlow%2FURL2Image.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FImFlow%2FURL2Image?ref=badge_shield)
 
 # URL2Image
 A microservice that turns an URL into an image.
@@ -90,3 +91,7 @@ The service can be configured using environtment variables:
 :white_check_mark: Image format selection (jpg/png)
 
 - [ ] Add a standalone Program
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FImFlow%2FURL2Image.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FImFlow%2FURL2Image?ref=badge_large)
